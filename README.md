@@ -11,7 +11,7 @@ LINE_CHANNEL_ACCESS_TOKEN=
 ## Usage
 
 ```bash
-make start-wehbook
+make start-webhook
 make start-mcp-server
 make start-agent-a
 ```
